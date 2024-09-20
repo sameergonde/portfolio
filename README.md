@@ -1,10 +1,5 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
-    </a>
-  <br />
 
+<<<<<<< HEAD
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
@@ -682,3 +677,5 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+>>>>>>> afa83f24537ddc106a342f9664bfec7e9dae673f
